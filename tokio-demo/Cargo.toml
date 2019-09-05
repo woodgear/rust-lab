@@ -1,0 +1,12 @@
+[package]
+name = "tokio-demo"
+version = "0.1.0"
+authors = ["wucong <1875486458@qq.com>"]
+edition = "2018"
+
+[dependencies]
+futures = "0.1.28"
+failure = "0.1.5"
+tokio = "0.1.22"
+log = "0.4.8"
+simplelog = "0.7.1"
